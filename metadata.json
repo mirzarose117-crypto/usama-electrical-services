@@ -1,0 +1,6 @@
+{
+  "name": "Usama Electrical Services",
+  "description": "Professional residential and commercial electrician services in Pakistan featuring transparent PKR pricing, DB board upgrades, UPS and solar wiring, SMD lighting, and instant WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
